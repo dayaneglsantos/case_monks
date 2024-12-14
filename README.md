@@ -2,7 +2,7 @@
 
 Este projeto foi realizado como parte do processo seletivo da empresa Monks.
 
-## Tecnologia utilizadas:
+## 🚀 Tecnologia utilizadas:
 
 - **HTML5**
 - **CSS3**
