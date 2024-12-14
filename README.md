@@ -15,16 +15,16 @@ Este projeto foi realizado como parte do processo seletivo da empresa Monks.
 
 #### Executando projeto
 
-Fazendo o clone do projeto:
+Fazendo o clone:
 
 ```
-git clone https://github.com/seu-usuario/
+git clone https://github.com/dayaneglsantos/case_monks.git
 ```
 
 Navegue até o repositório:
 
 ```
-cd monks
+cd repositório-do-projeto
 ```
 
 Instalação das dependências:
